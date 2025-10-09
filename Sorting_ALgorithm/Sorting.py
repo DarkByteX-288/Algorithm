@@ -29,6 +29,9 @@ class SortingAlgorithms:
                 if arr[j] < arr[min_idx]:
                     min_idx = j
             arr[i], arr[min_idx] = arr[min_idx], arr[i]
+
+
+#These topic discuss all about sorting data
         return arr
     
     # Insertion Sort Implementation
