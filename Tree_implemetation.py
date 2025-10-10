@@ -1,7 +1,6 @@
 #Implementation Tree DSA in Pyhton
 from collections import deque
 from typing import List, Optional, Any
-
 class TreeNode:
     """Node class for a tree structure"""
     def __init__(self, value: Any):
