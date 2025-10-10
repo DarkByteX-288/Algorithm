@@ -1,4 +1,4 @@
-#Implementation Tree DS in Pyhton
+#Implementation Tree DSA in Pyhton
 from collections import deque
 from typing import List, Optional, Any
 
