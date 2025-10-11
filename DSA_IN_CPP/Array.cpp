@@ -1,3 +1,4 @@
+// using array to insert delete search and disply an element 
 #include <iostream>
 using namespace std;
 
